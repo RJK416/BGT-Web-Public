@@ -1,0 +1,6 @@
+@BGT_Gateway_HostAddress = http://localhost:5269
+
+GET {{BGT_Gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

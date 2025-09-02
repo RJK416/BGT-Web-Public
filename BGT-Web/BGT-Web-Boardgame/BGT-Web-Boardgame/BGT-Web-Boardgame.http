@@ -1,0 +1,6 @@
+@BGT_Web_Boardgame_HostAddress = http://localhost:5028
+
+GET {{BGT_Web_Boardgame_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
